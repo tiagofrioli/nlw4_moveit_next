@@ -1,5 +1,5 @@
 import React from "react";
-import { CompletedChallenge } from "../components/CompletedChallenges/CompletedChallenge";
+
 import { Countdown } from "../components/Countdown/Countdown";
 import {ExperienceBar} from '../components/ExperienceBar/ExperienceBar';
 import { Profile } from "../components/Profile/Profile";
@@ -9,6 +9,7 @@ import Head from 'next/head';
 import { ChallengeBox } from "../components/ChallengeBox/ChallengeBox";
 import { CountdownProvider } from "../context/CountdownContext";
 import { ChallengesProvider } from "../context/ChallengeContext";
+import CompletedChallenge from "../components/CompletedChallenges/CompletedChallenge";
 
 
 interface HomeProps{
