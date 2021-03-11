@@ -35,7 +35,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/tiagofrioli/nlw4_moveit_next.git && cd nlw04-moveit-web
+$ git clone https://github.com/tiagofrioli/nlw4_moveit_next.git && cd nlw4_moveit_next
 ```
 
 Follow the steps below
